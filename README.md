@@ -87,14 +87,6 @@ ODS Alinhado: #7 – Energia Limpa e Acessível
 🔹 Facilitação da adoção de energia limpa
 🔹 Educação energética e sustentabilidade
 
-👨‍💻 Equipe
-Nome	RA
-Charles Pereira dos Santos	116442
-Diego Pires Aragão	116338
-Renato Pires Filogenio	116465
-Lucas Pianca Soares	116835
-Helder Amaral Junior	117229
-Nicolas Righi	116591
 📚 Referências
 
 Portal Solar — Como calcular energia solar
